@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 2e4ad60f278b6d54d9dc2ebfa737c48e
+timeCreated: 1478145491
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samuraiidle_0
+    21300002: samuraiidle_1
+    21300004: samuraiidle_2
+    21300006: samuraiidle_3
+    21300008: samuraiidle_4
+    21300010: samuraiidle_5
+    21300012: samuraiidle_6
+    21300014: samuraiidle_7
+    21300016: samuraiidle_8
+    21300018: samuraiidle_9
+    21300020: samuraiidle_10
+    21300022: samuraiidle_11
+    21300024: samuraiidle_12
+    21300026: samuraiidle_13
+    21300028: samuraiidle_14
+    21300030: samuraiidle_15
+    21300032: samuraiidle_16
+    21300034: samuraiidle_17
+    21300036: samuraiidle_18
+    21300038: samuraiidle_19
+    21300040: samuraiidle_20
+    21300042: samuraiidle_21
+    21300044: samuraiidle_22
+    21300046: samuraiidle_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samuraiidle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1708
+        width: 302
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1703
+        width: 299
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1710
+        width: 299
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_3
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1706
+        width: 295
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1704
+        width: 296
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_5
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1704
+        width: 293
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1355
+        width: 293
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1352
+        width: 293
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_8
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1355
+        width: 291
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_9
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1348
+        width: 289
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_10
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1352
+        width: 286
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_11
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1355
+        width: 285
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 996
+        width: 284
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1005
+        width: 286
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1002
+        width: 289
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1000
+        width: 292
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_16
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 996
+        width: 292
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_17
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1000
+        width: 293
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 648
+        width: 296
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 648
+        width: 298
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 652
+        width: 297
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 650
+        width: 298
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_22
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 651
+        width: 301
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraiidle_23
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 650
+        width: 303
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

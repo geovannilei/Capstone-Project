@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: ad1f00c20862e6149b220d26c1a53621
+timeCreated: 1478144588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samurairunning_0
+    21300002: samurairunning_1
+    21300004: samurairunning_2
+    21300006: samurairunning_3
+    21300008: samurairunning_4
+    21300010: samurairunning_5
+    21300012: samurairunning_6
+    21300014: samurairunning_7
+    21300016: samurairunning_8
+    21300018: samurairunning_9
+    21300020: samurairunning_10
+    21300022: samurairunning_11
+    21300024: samurairunning_12
+    21300026: samurairunning_13
+    21300028: samurairunning_14
+    21300030: samurairunning_15
+    21300032: samurairunning_16
+    21300034: samurairunning_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samurairunning_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1707
+        width: 309
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1708
+        width: 305
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1703
+        width: 297
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1702
+        width: 289
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_4
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1707
+        width: 278
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_5
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1704
+        width: 274
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1343
+        width: 282
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1352
+        width: 285
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1347
+        width: 289
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_9
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1355
+        width: 291
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_10
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1347
+        width: 306
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_11
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1340
+        width: 317
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 972
+        width: 328
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 984
+        width: 336
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 984
+        width: 340
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_15
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 972
+        width: 337
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_16
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 988
+        width: 330
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurairunning_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 624
+        width: 324
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
