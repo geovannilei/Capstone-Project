@@ -5,7 +5,6 @@ using UnityEngine.UI;
 public class HealthManager : MonoBehaviour {
 
 	public int maxPlayerHealth;
-
 	public static int playerHealth;
 
 	//Text text;
@@ -26,7 +25,9 @@ public class HealthManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(playerHealth <= 0 && !isDead)
+        if (isDead == true) Application.LoadLevel(Application.loadedLevel);
+        
+        if (playerHealth <= 0 && !isDead)
 		{
 			playerHealth = 0;
 			isDead = true;
@@ -46,4 +47,11 @@ public class HealthManager : MonoBehaviour {
 	{
 		playerHealth = maxPlayerHealth;
 	}
+
+    void OnCollisionEnter2D(Collision2D collision) {
+        if (collision.gameObject.tag == "Spike")
+        {
+            isDead = true;
+        }
+    }
 }

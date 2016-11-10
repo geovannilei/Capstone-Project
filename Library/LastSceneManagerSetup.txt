@@ -8,3 +8,6 @@ sceneSetups:
 - path: Assets/Level 1.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Level 2.unity
+  isLoaded: 0
+  isActive: 0

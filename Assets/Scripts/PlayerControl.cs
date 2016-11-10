@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class PlayerControl : MonoBehaviour {
     public float speed;
@@ -10,7 +11,11 @@ public class PlayerControl : MonoBehaviour {
     public Animator anim;
     public Collider2D attacktriggerleft;
     public Collider2D attacktriggerright;
+    public Collider2D portaltrigger;
+    public object portal;
+    public string nextscene;
     private bool attacking = false;
+    private bool change = false;
 
 
     void Start() {
@@ -24,6 +29,7 @@ public class PlayerControl : MonoBehaviour {
     }
 
     void Update () {
+        print(change);
         if (Input.GetKeyDown(KeyCode.F) && attacking == false)
         {
             attacking = true;
@@ -53,6 +59,7 @@ public class PlayerControl : MonoBehaviour {
 
         moveVelocity = 0;   
         if (Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow)) {
+
             if (grounded) {
                 GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jump);
             }
@@ -86,4 +93,5 @@ public class PlayerControl : MonoBehaviour {
         grounded = false;
         anim.SetBool("IsGrounded", false);
     }
+    
 }
