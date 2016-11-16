@@ -20,7 +20,7 @@ public class selector : MonoBehaviour {
     public void left() {
         if (num == 0)
         {
-            num = 2;
+            num = 1;
         }
         else if (num > 0)
             {
@@ -30,7 +30,7 @@ public class selector : MonoBehaviour {
     }
 
     public void right() {
-        if (num == 2)
+        if (num == 1)
         {
             num = 0;
         }
