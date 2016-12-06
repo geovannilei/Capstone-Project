@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: cbcdf4f443f16c543a8ea643317d8384
+timeCreated: 1478144571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samuraijumping_0
+    21300002: samuraijumping_1
+    21300004: samuraijumping_2
+    21300006: samuraijumping_3
+    21300008: samuraijumping_4
+    21300010: samuraijumping_5
+    21300012: samuraijumping_6
+    21300014: samuraijumping_7
+    21300016: samuraijumping_8
+    21300018: samuraijumping_9
+    21300020: samuraijumping_10
+    21300022: samuraijumping_11
+    21300024: samuraijumping_12
+    21300026: samuraijumping_13
+    21300028: samuraijumping_14
+    21300030: samuraijumping_15
+    21300032: samuraijumping_16
+    21300034: samuraijumping_17
+    21300036: samuraijumping_18
+    21300038: samuraijumping_19
+    21300040: samuraijumping_20
+    21300042: samuraijumping_21
+    21300044: samuraijumping_22
+    21300046: samuraijumping_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samuraijumping_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1708
+        width: 302
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1707
+        width: 298
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1719
+        width: 296
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1712
+        width: 303
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1699
+        width: 316
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_5
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1697
+        width: 326
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1339
+        width: 337
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1336
+        width: 334
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_8
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1342
+        width: 332
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_9
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1341
+        width: 325
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_10
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1337
+        width: 320
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 968
+        width: 309
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 974
+        width: 304
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_13
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 972
+        width: 294
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 971
+        width: 286
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_15
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 977
+        width: 277
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_16
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 978
+        width: 271
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 612
+        width: 272
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 608
+        width: 269
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 612
+        width: 272
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_20
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 605
+        width: 271
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_21
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 604
+        width: 276
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_22
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 604
+        width: 284
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samuraijumping_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 293
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
